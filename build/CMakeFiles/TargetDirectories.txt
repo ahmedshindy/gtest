@@ -1,0 +1,4 @@
+/workspaces/gtest/build/CMakeFiles/rebuild_cache.dir
+/workspaces/gtest/build/CMakeFiles/edit_cache.dir
+/workspaces/gtest/build/CMakeFiles/test.dir
+/workspaces/gtest/build/CMakeFiles/a.out.dir
